@@ -79,6 +79,8 @@ public class Concorrencia {
         return valor > 0.8;
     }
     
+    //alterei aqui. oh!
+    
     /**
      * @param args the command line arguments
      */
